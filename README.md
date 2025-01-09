@@ -1,14 +1,86 @@
 # Cash Calculator
 
-A simple Hong Kong cash calculator android app using jetpack compose.
+A simple yet efficient Hong Kong cash calculator Android app built using Jetpack Compose. This app
+provides a seamless user experience with modern UI components and helps users quickly calculate cash
+values.
 
-<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto">Screenshots</h2><a id="user-content-screenshots" class="anchor" aria-label="Permalink: Screenshots" href="#screenshots"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+---
+
+## Features
+
+- Intuitive and modern user interface powered by **Jetpack Compose**.
+- Designed for Hong Kong currency calculations.
+- Lightweight and optimized for Android devices.
+
+---
+
+## Screenshots
+
+Here are some screenshots of the app in action:
 
 <table>
 <thead>
 <tr>
-<th><a target="_blank" rel="noopener noreferrer" href="https://github.com/wingsum93/CashCalculator/blob/main/screenshots/Screenshot_1736453682.png"><img src="https://github.com/wingsum93/CashCalculator/blob/main/screenshots/Screenshot_1736453682.png?raw=true" alt="sound meter" style="max-width: 100%;"></a></th>
-<th><a target="_blank" rel="noopener noreferrer" href="https://github.com/wingsum93/CashCalculator/blob/main/screenshots/Screenshot_1736453549.png"><img src="https://github.com/wingsum93/CashCalculator/blob/main/screenshots/Screenshot_1736453549.png?raw=true" alt="sound meter" style="max-width: 100%;"></a></th>
+<th><a target="_blank" rel="noopener noreferrer" href="https://github.com/wingsum93/CashCalculator/blob/main/screenshots/Screenshot_1736453682.png"><img src="https://github.com/wingsum93/CashCalculator/blob/main/screenshots/Screenshot_1736453682.png?raw=true" alt="Cash Calculator Screenshot 1" style="max-width: 100%;"></a></th>
+<th><a target="_blank" rel="noopener noreferrer" href="https://github.com/wingsum93/CashCalculator/blob/main/screenshots/Screenshot_1736453549.png"><img src="https://github.com/wingsum93/CashCalculator/blob/main/screenshots/Screenshot_1736453549.png?raw=true" alt="Cash Calculator Screenshot 2" style="max-width: 100%;"></a></th>
 </tr>
 </thead>
+<tbody>
+<tr>
+<td align="center">Main Interface</td>
+<td align="center">Calculation Result</td>
+</tr>
+</tbody>
 </table>
+
+---
+
+## Installation
+
+### Prerequisites
+
+- Android Studio (Arctic Fox or later recommended)
+- Android SDK 30 or later
+- Jetpack Compose enabled
+
+### Steps
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/wingsum93/CashCalculator.git
+   cd CashCalculator
+2. Open the project in Android Studio.
+
+3. Sync Gradle and build the project.
+
+4. Run the app on an emulator or a physical device.
+
+## Tech Stack
+
+Kotlin: For concise and expressive code.
+Jetpack Compose: For building declarative UI components.
+Material Design: To provide a clean and user-friendly interface.
+
+## Contributing
+
+Contributions are welcome! To contribute:
+
+1. Fork the repository.
+2. Create a feature branch:
+    ```bash
+    git checkout -b feature/your-feature-name
+    ```
+3. Commit your changes:
+    ```bash
+    git commit -m "Add your feature description"
+    ```
+
+4. Push the branch:
+    ```bash
+    git push origin feature/your-feature-name
+   ```
+5. Create a pull request.
+
+## License
+
+This project is licensed under the MIT License.
