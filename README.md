@@ -7,8 +7,8 @@ A simple Hong Kong cash calculator android app using jetpack compose.
 <table>
 <thead>
 <tr>
-<th><a target="_blank" rel="noopener noreferrer" href="https://github.com/wingsum93/CashCalculator/blob/master/screenshots/Screenshot_1736453682.png"><img src="https://github.com/wingsum93/CashCalculator/blob/master/screenshots/Screenshot_1736453682.png?raw=true" alt="sound meter" style="max-width: 100%;"></a></th>
-<th><a target="_blank" rel="noopener noreferrer" href="https://github.com/wingsum93/CashCalculator/blob/master/screenshots/Screenshot_1736453549.png"><img src="https://github.com/wingsum93/CashCalculator/blob/master/screenshots/Screenshot_1736453549.png?raw=true" alt="sound meter" style="max-width: 100%;"></a></th>
+<th><a target="_blank" rel="noopener noreferrer" href="https://github.com/wingsum93/CashCalculator/blob/main/screenshots/Screenshot_1736453682.png"><img src="https://github.com/wingsum93/CashCalculator/blob/main/screenshots/Screenshot_1736453682.png?raw=true" alt="sound meter" style="max-width: 100%;"></a></th>
+<th><a target="_blank" rel="noopener noreferrer" href="https://github.com/wingsum93/CashCalculator/blob/main/screenshots/Screenshot_1736453549.png"><img src="https://github.com/wingsum93/CashCalculator/blob/main/screenshots/Screenshot_1736453549.png?raw=true" alt="sound meter" style="max-width: 100%;"></a></th>
 </tr>
 </thead>
 </table>
