@@ -14,6 +14,26 @@ values.
 
 ---
 
+## Dependencies
+
+### Plugins
+
+- kotlin (android) + compose compiler + kotlin-serialization plugin - 2.0.10
+- ksp - 2.0.10-1.0.24
+
+### Libraries
+
+- jetpack compose - 1.9.3
+- composeBom - 2024.10.01
+- kotlinx-serialization-json - 1.5.0
+- room - 2.6.1
+    - room-compiler
+    - room-ktx
+    - room-runtime
+- androidx-navigation-compose - 2.8.3
+
+---
+
 ## Screenshots
 
 Here are some screenshots of the app in action:
